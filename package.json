@@ -20,5 +20,5 @@
     "eslint-config-standard": "^10.2.0",
     "standard": "^10.0.1"
   },
-  "repository": "git remote add origin git@github.com:Igor-Vuk/JS-Clock.git"
+  "repository": "git@github.com:Igor-Vuk/JS-Clock.git"
 }
